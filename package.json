@@ -18,5 +18,8 @@
   "homepage": "https://github.com/fave77/pbchess#readme",
   "author": "Priyabrata Biswas",
   "license": "GPLv3",
-  "dependencies": {}
+  "dependencies": {
+    "react-content-loader": "^6.0.2",
+    "react-fade-in": "^2.0.1"
+  }
 }
